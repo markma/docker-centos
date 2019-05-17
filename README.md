@@ -1,4 +1,4 @@
 # hackyo/centos
 The official build of CentOS.
 
-[Dockerfile](Dockerfile)
+[Dockerfile](https://github.com/hackyoMa/docker-centos/blob/7/README.md)
